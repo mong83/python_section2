@@ -15,4 +15,4 @@ urllib.request.urlretrieve(imgUrl,savePath1)
 urllib.request.urlretrieve(imgUrl,savePath2)
 
 
-print('다운로드 완료')
+print('다운로드 완료111')
